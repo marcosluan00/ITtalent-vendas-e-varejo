@@ -13,3 +13,20 @@ Desde produtos básicos até soluções de alta tecnologia, temos tudo que você
 
 Na Vendas & Varejo, a felicidade do cliente é nossa prioridade máxima. Estamos constantemente melhorando nossos serviços e ampliando nossa gama de produtos para atender às suas necessidades.
 
+# Depoimentos de Clientes da Vendas & Varejo
+
+1. **Casa Tech**
+    - A Casa tech é uma loja de suprimentos computacionais situada na cidade de Boa Vista.
+    - Depoimento: "A equipe da Vendas & Varejo é excepcional! Sempre encontramos os equipamentos e softwares mais atualizados para nossa clientela, sendo nosso principal fornecedor."
+
+2. **PixelTech Ltda**
+    - PixelTech Ltda é uma empresa de tecnologia focada em soluções corporativas. 
+    - Depoimento: "Com um atendimento diferenciado e muito ágil, a Vendas & Varejo se destaca com o fornecimento de equipamentos e softwares de última linha. Compramos regularmente softwares e hardwares da Vendas & Varejo"
+
+3. **Raimundo Nonato**
+    - Pessoa Física e cliente ávido.
+    - Depoimento: "Sempre que preciso de uma licença, atualizar meu setup ou comprar algo de tecnologia, a Vendas & Varejo é a primeira que me vem à mente."
+
+4. **DigitalMind Consultoria em TI**
+    - DigitalMind é uma consultoria em tecnologia da informação focada em soluções empresariais. 
+    - Depoimento: "A parceria com a Vendas & Varejo nos permite oferecer soluções tecnológicas completas e eficientes para nossos clientes, adquirimos licenças de software empresarial e equipamentos de rede para fortalecer nossas ofertas de consultoria em TI"
